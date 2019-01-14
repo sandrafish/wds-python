@@ -1,6 +1,6 @@
 # Intro to Python Women's Data Science Study Group
 
-These files are set up with Python 3.7 and Jupyter notebook for Python 3.
+These files are set up with Python 3.7 and Jupyter notebook using pipenv, which creates a closed environment that doesn't interfere with other programs.
 
 To replicate on your computer, you may download this repo. Or install [Python](http://www.firstpythonnotebook.org/prerequisites/python.html) if you don't have it already, and [Jupyter notebook](http://jupyter.org/) from the command line.
 
